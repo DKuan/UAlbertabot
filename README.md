@@ -1,0 +1,2 @@
+# UAlbertabot
+starcraft AI bot
